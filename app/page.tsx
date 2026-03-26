@@ -1,0 +1,1 @@
+export default function P(){return <h1>QA-07 Source</h1>}
